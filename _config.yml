@@ -5,7 +5,7 @@ description: "Online CV for Conor Walsh hosted on Github Pages"
 # Build settings
 markdown: kramdown
 sass:
-  sass_dir: _sass
+  sass_dir: /_sass
   style: compressed
 
 # Resume settings
